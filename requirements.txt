@@ -1,0 +1,11 @@
+send2trash 
+requests 
+beautifulsoup4
+selenium
+PyPDF2
+python-docx
+imapclient
+twilio
+openpyxl
+pyautogui
+black
